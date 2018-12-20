@@ -1,4 +1,4 @@
-Proxy server for development with following functionality
+This is just an idea of a cool development proxy server
 
 * Response replay for long loading services
 * CSS watch to update page on the fligh
